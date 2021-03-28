@@ -18,6 +18,8 @@ h1:hover{
     background-color: white;
     position: relative;
     top: 0px;
+    transition: .9s;
+
 }
 
 h4{
@@ -29,6 +31,8 @@ h4:hover{
     background-color: wheat;
     position: relative;
     top: 0px;
+    transition: .9s;
+
     text-transform: lowercase;
 }
 
