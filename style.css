@@ -21,7 +21,7 @@ h1:hover{
 }
 
 h4{
-    color: wheat;
+    color: white;
 }
 
 h4:hover{
@@ -31,3 +31,17 @@ h4:hover{
     top: 350px;
     text-transform: lowercase;
 }
+
+
+h6{
+color: white;
+
+}
+
+
+
+h6:hover{
+background-color: blue;
+
+}
+
