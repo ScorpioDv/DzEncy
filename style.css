@@ -17,7 +17,7 @@ h1:hover{
     color: teal;
     background-color: white;
     position: relative;
-    top: 100px;
+    top: 0px;
 }
 
 h4{
@@ -28,7 +28,7 @@ h4:hover{
     color: yellow;
     background-color: wheat;
     position: relative;
-    top: 350px;
+    top: 0px;
     text-transform: lowercase;
 }
 
