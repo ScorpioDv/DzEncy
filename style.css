@@ -42,6 +42,7 @@ color: white;
 
 h6:hover{
 background-color: blue;
+transition: .9s;
 
 }
 
