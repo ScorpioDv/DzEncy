@@ -53,65 +53,60 @@ transition: .9s;
 
 
 
+.ul, li,a{
+    text-decoration: none;
+    font-family: source sans pro, sans-serif;
+    color: white;
+    width: 100px;
+    display: inline;
+    margin: 10px;
+background-color: cornflowerblue;
+
+    
+}
+
+.nav-bar{
+    background-color: burlywood;
+}
+
+ul a:hover{
+    color: crimson;
+    
+}
+
+.poop{
+
+    font-family: source sans pro, sans-serif;
+    color: cyan;
+    position: relative;
+    top: 10px; 
+    
+}
 
 
+.poop:hover{
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);
+ 
+}
+ul a:hover{
+    width: 150px;
+    height: 80px;
+    -ms-transform: skewY(20deg); /* IE 9 */
+    transform: skewY(20deg);
+}
 
 
+li a:hover {
+    -ms-transform: skewY(20deg); /* IE 9 */
+    transform: skewY(20deg);
+    writing-mode:lr-tb;
+    width:21px;
+    color:#fff
+  }
+
+  .box{
+      height: 100px;
+  }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f
